@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-ricsalgado.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/p4q765fbes95gtr6hqdoapbqr)
+[<img src="https://novatorem-khaki-eight.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/p4q765fbes95gtr6hqdoapbqr)
 
 ### Connect with me:
 
