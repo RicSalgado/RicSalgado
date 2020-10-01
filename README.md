@@ -6,7 +6,9 @@
 - 🥅 2020 Goals: Publish an article.
 - ⚡ Fun fact: I am a huge soccer fan.
 
-[![Spotify](https://p4q765fbes95gtr6hqdoapbqr.vercel.app/api/spotify)](https://open.spotify.com/user/p4q765fbes95gtr6hqdoapbqr)
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-iota-gray.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/p4q765fbes95gtr6hqdoapbqr)
 
 ### Connect with me:
 
