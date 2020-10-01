@@ -15,7 +15,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://en.wikipedia.org/wiki/SQL)
-[<img align="left" alt="SAS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" />](https://www.sas.com/pt_pt/home.html)
+[<img align="left" alt="SAS" width="26px" src="https://avatars2.githubusercontent.com/u/5289877?s=200&v=4" />](https://www.sas.com/pt_pt/home.html)
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](https://www.r-project.org/)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
