@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I am a huge soccer fan
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-p4q765fbes95gtr6hqdoapbqr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-p4q765fbes95gtr6hqdoapbqr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/p4q765fbes95gtr6hqdoapbqr)
 
 ### Connect with me:
 
