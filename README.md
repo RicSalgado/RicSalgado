@@ -87,8 +87,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-zeta-dun.vercel.app
-/api?username=RicSalgado&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-zeta-dun.vercel.app/api?username=RicSalgado&show_icons=true&hide_border=true" />
 
 </details>
 
