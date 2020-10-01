@@ -19,6 +19,7 @@
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](https://www.r-project.org/)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+[<img align="left" alt="gradescope" width="26px" src="https://intheloop.engineering.asu.edu/wp-content/uploads/2018/12/Screen-Shot-2018-12-28-at-1.01.11-PM.png" />](https://www.gradescope.com/)
 
 <br />
 <br />
