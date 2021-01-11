@@ -3,7 +3,7 @@
 ## I'm a Student and Teaching Assistant!
 
 - 🔭 I’m currently working on completing my MSc in Advanced Data Analytics.
-- 🥅 2020 Goals: Publish an article.
+- 🥅 2021 Goals: Publish an article.
 - ⚡ Fun fact: I am a huge soccer fan.
 
 ### Connect with me:
