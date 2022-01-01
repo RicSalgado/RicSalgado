@@ -1,9 +1,9 @@
 ### Hi there, I'm Ricardo 👋
 
-## I'm a Student and Teaching Assistant!
+## I'm a Student and Lecturer!
 
-- 🔭 I’m currently working on completing my MSc in Advanced Data Analytics.
-- 🥅 2021 Goals: Publish an article.
+- 🔭 I’m currently working on completing my PhD in Mathematical Statistics.
+- 🥅 2022 Goals: Improve my coding ability, by exposing myself to additional tools and languages.
 - ⚡ Fun fact: I am a huge soccer fan.
 
 ### Connect with me:
