@@ -1,6 +1,6 @@
 ### Hi there, I'm Ricardo 👋
 
-## I'm a Student and Assistant Lecturer!
+## I'm a Student and Part-Time Lecturer!
 
 - 🔭 I’m currently working on completing my PhD in Mathematical Statistics.
 - 🥅 2022 Goals: Improve my coding ability, by exposing myself to additional tools and languages.
