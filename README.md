@@ -3,7 +3,7 @@
 ## I'm a PhD Student and Analyst!
 
 - 🔭 I’m currently working on completing my PhD in Mathematical Statistics.
-- 🥅 2022 Goals: Improve my coding ability, by exposing myself to additional tools and languages.
+- 🥅 2023 Goals: Improve my coding ability, by exposing myself to additional tools and languages.
 - ⚡ Fun fact: I am a huge soccer fan.
 
 ### Connect with me:
