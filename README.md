@@ -1,9 +1,9 @@
 ### Hi there, I'm Ricardo 👋
 
-## I'm a PhD Student and Analyst!
+## I'm a PhD Student and Consultant!
 
 - 🔭 I’m currently working on completing my PhD in Mathematical Statistics.
-- 🥅 2023 Goals: Improve my coding ability, by exposing myself to additional tools and languages.
+- 🥅 2025 Goals: Improve my coding ability, by exposing myself to additional tools and languages.
 - ⚡ Fun fact: I am a huge soccer fan.
 
 ### Connect with me:
@@ -21,7 +21,6 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="gradescope" width="26px" src="https://raw.githubusercontent.com/github/explore/0ac6b6e4ab2f90d07d7b6ca77bfce90b5252b006/topics/gradescope/gradescope.png" />](https://www.gradescope.com/)
 
 <br />
 <br />
