@@ -3,8 +3,6 @@
 ## I'm a PhD Student and Consultant!
 
 - 🔭 I’m currently working on completing my PhD in Mathematical Statistics.
-- 🥅 2025 Goals: Improve my coding ability, by exposing myself to additional tools and languages.
-- ⚡ Fun fact: I am a huge soccer fan.
 
 ### Connect with me:
 
